@@ -1,4 +1,4 @@
-adicionar etxto de readme após entender github
+adicionar texto de readme após entender github
 cat README.md
 
 
